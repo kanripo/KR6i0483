@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 四十二章經
+#+DATE: 2015-08-30 20:20:42.307460
+#+PROPERTY: JUAN 0
