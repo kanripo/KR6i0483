@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:42.136210
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:44
 #+TITLE: 四十二章經
 #+PROPERTY: CBETA_ID T17n0784
 #+PROPERTY: ID KR6i0483
